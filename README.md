@@ -25,7 +25,7 @@
 
 <h4>Education</h4>
 <ul>
-<li><strong>B.Tech Engineering</strong></li>
+<li><strong>B.Tech Computer Engineering</strong></li>
 </ul>
 
 <h4>Focus</h4>
