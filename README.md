@@ -54,7 +54,7 @@ const guru = {
         open_to:     "Collaborating on AI/ML & Open Source"
     },
 
-    fun_fact: "I debug with printf and I'm not ashamed of it"
+    fun_fact: "I debug with print and I'm not ashamed of it"
 };
 ```
 
