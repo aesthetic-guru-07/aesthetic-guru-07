@@ -9,97 +9,113 @@
 
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Jagannath%20Guru&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Systems%20Thinker%20%7C%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+  <!-- ═══ NEON HEADER WAVE ═══ -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0d0d,50:00e5ff,75:bf00ff,100:000000&height=230&section=header&text=JAGANNATH%20GURU&fontSize=52&fontColor=00e5ff&fontAlignY=33&desc=%E2%9A%A1%20Aspiring%20AI%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Builder&descSize=16&descColor=bf00ff&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=aesthetic-guru-07&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views" />
+  <!-- Profile Views + Followers -->
+  <img src="https://komarev.com/ghpvc/?username=aesthetic-guru-07&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/aesthetic-guru-07?style=for-the-badge&color=238636&labelColor=0d1117&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/aesthetic-guru-07?style=for-the-badge&color=bf00ff&labelColor=0d0d0d&logo=github&logoColor=00e5ff&label=Followers" alt="Followers" />
 
   <br/><br/>
 
-  <!-- Typing Animation -->
+  <!-- ═══ TYPING ANIMATION ═══ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A7+Building+Intelligent+%26+High-Performance+Systems;%F0%9F%A7%A0+AI+%2F+ML+%7C+Backend+Engineering+%7C+Full-Stack+Dev;%E2%9A%A1+C%2B%2B+%7C+Python+%7C+TypeScript+%7C+CUDA+%7C+MySQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%E2%9A%A1+Building+Intelligent+%26+High-Performance+Systems;%F0%9F%A7%A0+AI+%2F+ML+%7C+Backend+Engineering+%7C+Full-Stack;%F0%9F%94%A5+C%2B%2B+%7C+Python+%7C+TypeScript+%7C+CUDA+%7C+MySQL" alt="Typing SVG" />
   </a>
 
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: Jagannath Guru
-alias: Mr. Guru
-located_in: India
-education: B.Tech Computer Engineering
+```js
+const guru = {
+    name: "Jagannath Guru",
+    alias: "Mr. Guru",
+    location: "India 🇮🇳",
+    education: "B.Tech Computer Engineering",
 
-fields_of_interest:
-  - Artificial Intelligence & Machine Learning
-  - High-Performance Computing & Algorithms
-  - Backend Systems Architecture
-  - Full-Stack Web Development
-  - CUDA & GPU Optimization
+    skills: {
+        languages:  ["C++", "Python", "JavaScript", "TypeScript", "CUDA"],
+        ai_ml:      ["TensorFlow", "PyTorch", "Scikit-Learn", "NumPy", "Pandas"],
+        backend:    ["Node.js", "Express", "REST APIs"],
+        databases:  ["MySQL", "MongoDB"],
+        devops:     ["Git", "GitHub", "Docker", "Linux"],
+        editors:    ["VS Code", "Vim"]
+    },
 
-currently_working_on: Building intelligent, scalable systems
-currently_learning: Advanced ML architectures & System Design
-looking_to_collaborate_on: AI/ML projects & Open Source tools
-fun_fact: I debug with printf and I'm not ashamed of it 😄
+    currently: {
+        working_on:  "Intelligent & scalable systems",
+        learning:    "Advanced ML architectures & System Design",
+        open_to:     "Collaborating on AI/ML & Open Source projects"
+    },
+
+    fun_fact: "I debug with printf and I'm not ashamed of it 😎"
+};
 ```
 
 <br/>
 
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-## 🛠️ &nbsp;Tech Stack
+## ⚡ &nbsp;Tech Arsenal
 
 <div align="center">
 
-### 💻 &nbsp;Languages
+### 🖥️ &nbsp;Languages
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00e5ff" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00e5ff" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00e5ff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CUDA-0d0d0d?style=for-the-badge&logo=nvidia&logoColor=76b900" alt="CUDA" />
+  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=bf00ff" alt="CSS3" />
 </p>
 
-### 🧠 &nbsp;AI / ML
+### 🧠 &nbsp;AI / Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=f7931e" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=00e5ff" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=bf00ff" alt="Pandas" />
 </p>
 
 ### ⚙️ &nbsp;Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=39ff14" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=00e5ff" alt="Express" />
+  <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00e5ff" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=39ff14" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=bf00ff" alt="REST API" />
 </p>
 
-### 🧰 &nbsp;Tools & Platforms
+### 🛠️ &nbsp;Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=39ff14" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00e5ff" alt="Docker" />
 </p>
 
 </div>
 
 <br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
@@ -107,8 +123,8 @@ fun_fact: I debug with printf and I'm not ashamed of it 😄
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aesthetic-guru-07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aesthetic-guru-07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aesthetic-guru-07&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&icon_color=bf00ff&text_color=c9d1d9&ring_color=00e5ff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aesthetic-guru-07&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -116,8 +132,8 @@ fun_fact: I debug with printf and I'm not ashamed of it 😄
 
 <div align="center">
 
-  <!-- GitHub Streak Stats -->
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aesthetic-guru-07&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img width="70%" src="https://streak-stats.demolab.com/?user=aesthetic-guru-07&theme=radical&hide_border=true&background=0d0d0d&stroke=00e5ff&ring=bf00ff&fire=ff3860&currStreakNum=00e5ff&sideNums=00e5ff&currStreakLabel=bf00ff&sideLabels=bf00ff&dates=6e7681" alt="GitHub Streak" />
 
 </div>
 
@@ -126,26 +142,14 @@ fun_fact: I debug with printf and I'm not ashamed of it 😄
 <div align="center">
 
   <!-- Contribution Graph -->
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aesthetic-guru-07&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Contribution Graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aesthetic-guru-07&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=00e5ff&line=bf00ff&point=00e5ff&area=true&area_color=bf00ff" alt="Contribution Graph" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
-
-<div align="center">
-
-  <!-- Snake eating contributions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aesthetic-guru-07/aesthetic-guru-07/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aesthetic-guru-07/aesthetic-guru-07/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/aesthetic-guru-07/aesthetic-guru-07/output/github-snake-dark.svg" width="100%" />
-  </picture>
-
-</div>
-
-<br/>
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 
@@ -153,52 +157,63 @@ fun_fact: I debug with printf and I'm not ashamed of it 😄
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=aesthetic-guru-07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aesthetic-guru-07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ WHAT I'M FOCUSED ON ═══════════════════ -->
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
 
 ## 🎯 &nbsp;Current Focus
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-artificial-intelligence-flaticons-lineal-color-flat-icons.png" width="48" alt="AI" /><br/>
+      <br/>🧠<br/>
       <b>AI / ML</b><br/>
-      <sub>Deep Learning<br/>Model Optimization</sub>
+      <sub>Deep Learning<br/>Model Optimization</sub><br/><br/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-backend-flaticons-lineal-color-flat-icons.png" width="48" alt="Backend" /><br/>
+      <br/>⚙️<br/>
       <b>Backend</b><br/>
-      <sub>Scalable APIs<br/>System Architecture</sub>
+      <sub>Scalable APIs<br/>System Architecture</sub><br/><br/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-gpu-flaticons-lineal-color-flat-icons.png" width="48" alt="HPC" /><br/>
+      <br/>🚀<br/>
       <b>HPC</b><br/>
-      <sub>CUDA Programming<br/>Performance Tuning</sub>
+      <sub>CUDA Programming<br/>Performance Tuning</sub><br/><br/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-web-development-flaticons-lineal-color-flat-icons.png" width="48" alt="Web" /><br/>
+      <br/>🌐<br/>
       <b>Full-Stack</b><br/>
-      <sub>Web Applications<br/>Developer Tools</sub>
+      <sub>Web Applications<br/>Developer Tools</sub><br/><br/>
     </td>
   </tr>
 </table>
+</div>
 
 <br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" width="70%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%" />
 
 </div>
 
 <br/>
+
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
@@ -207,32 +222,32 @@ fun_fact: I debug with printf and I'm not ashamed of it 😄
 <div align="center">
 
   <a href="mailto:jagannathguru07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff3860" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/aesthetic-guru-07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=bf00ff" alt="GitHub" />
   </a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ SUPPORT ═══════════════════ -->
+<!-- ═══════════════════ STAR BANNER ═══════════════════ -->
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/⭐_If_you_like_my_work,_star_my_repos!-1f6feb?style=for-the-badge" alt="Star" />
+  <img src="https://img.shields.io/badge/%E2%AD%90_Star_my_repos_if_you_find_them_useful!-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d" alt="Star" />
 
 </div>
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" alt="Footer" />
+<!-- ═══ NEON FOOTER WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0d0d,50:bf00ff,75:00e5ff,100:000000&height=120&section=footer" width="100%" alt="Footer" />
 
-<!-- Made with ❤️ by Jagannath Guru -->
+<!-- Made with 🖤 by Jagannath Guru -->
