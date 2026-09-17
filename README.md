@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
@@ -62,7 +62,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
@@ -113,7 +113,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 
 <!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
 
@@ -149,7 +149,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 
@@ -162,7 +162,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
