@@ -28,8 +28,7 @@
 
 <br/>
 
-<!-- ═══ DIVIDER ═══ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+---
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
@@ -61,8 +60,7 @@ const guru = {
 
 <br/>
 
-<!-- ═══ DIVIDER ═══ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+---
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
@@ -112,8 +110,7 @@ const guru = {
 
 <br/>
 
-<!-- ═══ DIVIDER ═══ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+---
 
 <!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
 
@@ -148,8 +145,7 @@ const guru = {
 
 <br/>
 
-<!-- ═══ DIVIDER ═══ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+---
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 
@@ -161,8 +157,7 @@ const guru = {
 
 <br/>
 
-<!-- ═══ DIVIDER ═══ -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
+---
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
