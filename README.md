@@ -18,44 +18,47 @@
 
 ### About
 
-[4:44 pm, 17/09/2026] Guru The BOSS:  …
-[4:51 pm, 17/09/2026] Guru The BOSS: <table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>Engineering student focused on systems programming, backend architectures, and machine learning.</p>
-      
-      <h4>Education</h4>
-      <ul>
-        <li><strong>B.Tech Engineering</strong></li>
-      </ul>
-      
-      <h4>Focus</h4>
-      <ul>
-        <li>High-performance computing & algorithms</li>
-        <li>Backend systems with Python & MySQL</li>
-        <li>AI / ML tooling & CUDA optimization</li>
-      </ul>
-      
-      <h4>Also Exploring</h4>
-      <ul>
-        <li>Low-level system performance & hardware architecture</li>
-        <li>Full-stack web utilities</li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="YOUR_SIDE_IMAGE_OR_GIF_URL" width="100%" alt="Visual" />
-    </td>
-    
-  </tr>
-  <tr>
-    <td width="20%" align="center" valign="middle">
-      <img src="YOUR_ICON_OR_LOGO_URL" width="60" alt="Icon" />
-    </td>
-    <td width="80%" valign="top">
-      <h4>Beyond Code</h4>
-      Exploring hardware architecture, benchmarking, and building custom developer tools.
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="65%" valign="top">
+<p>Engineering student focused on systems programming, backend architectures, and machine learning.</p>
+
+<h4>Education</h4>
+<ul>
+<li><strong>B.Tech Engineering</strong></li>
+</ul>
+
+<h4>Focus</h4>
+<ul>
+<li>High-performance computing & algorithms</li>
+<li>Backend systems with Python & MySQL</li>
+<li>AI / ML tooling & CUDA optimization</li>
+</ul>
+
+<h4>Also Exploring</h4>
+<ul>
+<li>Low-level system performance & hardware architecture</li>
+<li>Full-stack web utilities</li>
+</ul>
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="YOUR_SIDE_IMAGE_OR_GIF_URL" width="100%" alt="Visual" />
+</td>
+</tr>
+</table>
+
+<br />
+
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
+<img src="YOUR_ICON_OR_LOGO_URL" width="60" alt="Icon" />
+</td>
+<td width="80%" valign="top">
+<h4>Beyond code</h4>
+<p>Exploring hardware architecture, benchmarking, and building custom developer tools.</p>
+</td>
+</tr>
 </table>
 
 <!--
