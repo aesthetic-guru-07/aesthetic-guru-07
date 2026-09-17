@@ -6,7 +6,7 @@
 
   # Jagannath Guru
   
-  **| C++ | Python(AI and Systems)| JavaScript | TypeScript | MySQL**
+  ** C++ | Python(AI and Systems)| JavaScript | TypeScript | MySQL**
   
   [🌐 Portfolio](https://yourportfolio.com) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com) &nbsp;•&nbsp; [✉️ Email](mailto:jagannathguru07@gmail.com)
 
@@ -18,32 +18,35 @@
 
 ### About
 
-<table>
+[4:44 pm, 17/09/2026] Guru The BOSS:  …
+[4:51 pm, 17/09/2026] Guru The BOSS: <table>
   <tr>
     <td width="65%" valign="top">
-      Engineering student focused on systems programming, backend architectures, and machine learning.
+      <p>Engineering student focused on systems programming, backend architectures, and machine learning.</p>
       
-      #### Education
-      - **B.Tech Engineering**
+      <h4>Education</h4>
+      <ul>
+        <li><strong>B.Tech Engineering</strong></li>
+      </ul>
       
-      #### Focus
-      - High-performance computing & algorithms
-      - Backend systems with Python & MySQL
-      - AI / ML tooling & CUDA optimization
+      <h4>Focus</h4>
+      <ul>
+        <li>High-performance computing & algorithms</li>
+        <li>Backend systems with Python & MySQL</li>
+        <li>AI / ML tooling & CUDA optimization</li>
+      </ul>
       
-      #### Also Exploring
-      - Low-level system performance & hardware architecture
-      - Full-stack web utilities
+      <h4>Also Exploring</h4>
+      <ul>
+        <li>Low-level system performance & hardware architecture</li>
+        <li>Full-stack web utilities</li>
+      </ul>
     </td>
     <td width="35%" align="center" valign="middle">
       <img src="YOUR_SIDE_IMAGE_OR_GIF_URL" width="100%" alt="Visual" />
     </td>
+    
   </tr>
-</table>
-
-<br />
-
-<table>
   <tr>
     <td width="20%" align="center" valign="middle">
       <img src="YOUR_ICON_OR_LOGO_URL" width="60" alt="Icon" />
