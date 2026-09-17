@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
@@ -62,7 +62,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
@@ -113,7 +113,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
 
 <!-- ═══════════════════ CURRENT FOCUS ═══════════════════ -->
 
@@ -149,7 +149,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
 
@@ -162,7 +162,7 @@ const guru = {
 <br/>
 
 <!-- ═══ DIVIDER ═══ -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/white.png" width="100%">
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
