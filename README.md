@@ -6,7 +6,7 @@
 
   # Jagannath Guru
   
-  **AI & Systems | C++ | Python | MySQL**
+  **| C++ | Python(AI and Systems)| JavaScript | TypeScript | MySQL**
   
   [🌐 Portfolio](https://yourportfolio.com) &nbsp;•&nbsp; [💼 LinkedIn](https://linkedin.com) &nbsp;•&nbsp; [✉️ Email](mailto:jagannathguru07@gmail.com)
 
